@@ -1,0 +1,26 @@
+{
+  "hello": "こんにちは世界",
+  "title": "【Unofficial】Shion's 3rd Anniversary Website 🌙",
+  "mosaicAndIllustSwitchHint": "Click to Switch Between Illust and Mosaic",
+  "messages": {
+    "showInMosaic": "Show in mosaic",
+    "tweet": "tweet"
+  },
+  "credit": {
+    "illustrationH": "Anniversary Illustration",
+    "planningH": "Project organizer",
+    "designH": "Design･Art",
+    "modelingH": "3D modeling･Movie",
+    "webPgH": "Front End",
+    "srvPgH": "Back End･Mosaic Art",
+    "fansiteH": "Fansite owner",
+    "specialH": "Special Thanks",
+    "picturesH": "Shiokko･Pictures Illust",
+    "allShiokko": "Everyone Who Joined This Project",
+    "and": "And",
+    "murasakishion": "Shion-chan"
+  },
+  "tweet":"Congratulations 3rd Anniversary, Shion 🎉",
+  "disclaimer": "This website is unofficial fan site by Shikko.",
+  "disclaimer2":"Not related to Cover corp and/or Hololive Production."
+}

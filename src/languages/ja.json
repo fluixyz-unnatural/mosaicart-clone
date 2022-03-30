@@ -1,0 +1,26 @@
+{
+  "hello": "こんにちは世界",
+  "title": "【非公式】紫咲シオン3周年記念サイト 🌙",
+  "mosaicAndIllustSwitchHint": "クリックでモザイクとイラストの切り替え",
+  "messages": {
+    "showInMosaic": "モザイクアート内で見る",
+    "tweet": "ツイートする"
+  },
+  "credit": {
+    "illustrationH": "記念イラスト",
+    "planningH": "企画統括",
+    "designH": "デザイン・アート",
+    "modelingH": "3Dモデル・動画",
+    "webPgH": "フロントエンド",
+    "srvPgH": "バックエンド・モザイクアート",
+    "fansiteH": "ファンサイト運営",
+    "specialH": "スペシャルサンクス",
+    "picturesH": "塩っ子・写真イラスト提供",
+    "allShiokko": "この企画に参加してくれた皆様",
+    "and": "そして",
+    "murasakishion": "紫咲シオンちゃん"
+  },
+  "tweet":"シオンちゃん3周年おめでとう🎉",
+  "disclaimer": "当サイトは塩っ子により運営されている非公式のファンサイトです。",
+  "disclaimer2":"カバー株式会社及びホロライブプロダクションとは一切の関係を持ちません。"
+}

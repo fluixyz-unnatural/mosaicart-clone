@@ -1,0 +1,114 @@
+{
+  "MemoShadow.png": {
+    "x1": 1424,
+    "x2": 1666,
+    "y1": 918,
+    "y2": 1033,
+    "class": "multiply unclickable"
+  },
+  "Multiply.png": {
+    "x1": 0,
+    "x2": 1919,
+    "y1": 0,
+    "y2": 1079,
+    "class": "multiply  unclickable"
+  },
+  "MessagesSticker_JA.png": {
+    "x1": 1686,
+    "x2": 1908,
+    "y1": 225,
+    "y2": 288,
+    "class": "clickable"
+  },
+  "Twitter.png": {
+    "x1": 1457,
+    "x2": 1520,
+    "y1": 951,
+    "y2": 1014,
+    "class": "clickable"
+  },
+  "IconMemo.png": {
+    "x1": 1418,
+    "x2": 1653,
+    "y1": 902,
+    "y2": 1054,
+    "class": " unclickable"
+  },
+  "StickerShadow.png": {
+    "x1": 1686,
+    "x2": 1790,
+    "y1": 182,
+    "y2": 915,
+    "class": "multiply unclickable"
+  },
+  "FansiteSticker_JA.png": {
+    "x1": 1686,
+    "x2": 1900,
+    "y1": 129,
+    "y2": 200,
+    "class": "clickable"
+  },
+  "MessagesSticker_EN.png": {
+    "x1": 1686,
+    "x2": 1908,
+    "y1": 225,
+    "y2": 288,
+    "class": "clickable"
+  },
+  "Youtube.png": {
+    "x1": 1553,
+    "x2": 1616,
+    "y1": 965,
+    "y2": 1028,
+    "class":"clickable"
+  },
+  "Main.png": {
+    "x1": 564,
+    "x2": 1357,
+    "y1": 282,
+    "y2": 772,
+    "class":"clickable drop-shadow"
+  },
+  "CreditSticker_EN.png": {
+    "x1": 1705,
+    "x2": 1913,
+    "y1": 852,
+    "y2": 915,
+    "class":"clickable"
+  },
+  "Bg.png": {
+    "x1": 0,
+    "x2": 1919,
+    "y1": 0,
+    "y2": 1079,
+    "class":" unclickable"
+  },
+  "CreditSticker_JA.png": {
+    "x1": 1705,
+    "x2": 1913,
+    "y1": 852,
+    "y2": 915,
+    "class":"clickable"
+  },
+  "FansiteSticker_EN.png": {
+    "x1": 1686,
+    "x2": 1900,
+    "y1": 129,
+    "y2": 200,
+    "class":"clickable"
+  },
+  "Snaps.png": {
+    "x1": 218,
+    "x2": 1723,
+    "y1": 111,
+    "y2": 1023,
+    "class":"drop-shadow unclickable"
+  },
+  "Overlay.png": {
+    "x1": 146,
+    "x2": 1919,
+    "y1": 0,
+    "y2": 1072,
+    "class":"overlay unclickable"
+  }
+}
