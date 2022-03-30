@@ -1,26 +1,3 @@
 # shionchansushi
 
-かわいい天使
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+紫咲シオン 3 周年記念非公式ファンサイトのコード公開用リポジトリ
